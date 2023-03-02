@@ -1,0 +1,8 @@
+E pyt userin per cilin page tani e pyt nsa batches (it handles exeptions)
+E kontrollon nese osht privat ose nuk egziston successfully
+Mas shumti i ka donwload over 2000 posts
+It saves the zip file :)
+
+
+1. Spodi qa me add to this besides making an interface with javascript(react.js)
+2. 
